@@ -1,6 +1,6 @@
 # The Nobel Prize
 
-This mini-project was kick started when I heard Greta Thunberg (young climate activist) was nominated for the prize. Suriprised by the nomination I had more questions and answers about the past Nobel prize winners and here we are.
+This mini-project was kick started when I heard Greta Thunberg (young climate activist) was nominated for the prize. Suriprised by the nomination I had more questions than answers and I became motivated to learn about the past Nobel prize winners.
 
 This notebook will answer the following:
 - Who gets the most nobel prizes by country and sex
@@ -11,6 +11,6 @@ This notebook will answer the following:
 - Age distribution of the winners and difference between categories
 - Oldest and youngest winners
 
-In this notebook we will explore the Nobel prize winners from 1901 - 2016. The dataset was made available by the The Nobel Foundation. 
+Data ranges from 1901 - 2016. The dataset was made available by the The Nobel Foundation. 
 
-Note: Data cleaning code is not included in the notebook. 
+Note: Code required to clean and join tables is not included in this notebook. 
